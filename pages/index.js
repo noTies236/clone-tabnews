@@ -2,7 +2,7 @@ import { useState } from "react";
 
 function Main()
 {
-    return <h1>I’m so happy, I love my life. Let’s enjoy this experience.</h1>
+    return <h>wally wally</h>
 }
 
 export default Main;
